@@ -1,8 +1,8 @@
 # We need to setup different context root for the auth server so that we can store separate
 # cookies for both the API gateway as well as the OAuth2 authorization server.
 server:
-  port: 8003
-  contextPath: /auth 
+  port: 8004
+  
 eureka:
   client:
     serviceUrl:
