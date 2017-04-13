@@ -10,11 +10,7 @@ zuul:
       path: /api/merchant/**
     admin-api: 
       path: /api/admin/**
-      
-  host:
-    connect-timeout-millis: 10000
-    socket-timeout-millis: 60000
-
+ 
   hystrix:
     command:
         default:
