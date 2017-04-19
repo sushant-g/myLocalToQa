@@ -9,7 +9,7 @@ eureka:
 spring:
   data:
     mongodb:
-      host: 10.0.0.6
+      host: 52.172.197.84
       port: 27017
       database: cart-db
 feign:
