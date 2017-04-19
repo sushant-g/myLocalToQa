@@ -9,7 +9,7 @@ eureka:
 spring:
   data:
     mongodb:
-      host: localhost
+      host: 10.0.0.6
       port: 27017
       database: order-db
 feign:
