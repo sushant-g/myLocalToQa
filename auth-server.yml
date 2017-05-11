@@ -10,8 +10,6 @@ eureka:
 spring:
   data:
     mongodb:
-      username: clappilyuser
-      password: clappily1234
       host: localhost
       port: 27017
       database: auth-db
