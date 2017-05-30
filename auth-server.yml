@@ -13,3 +13,5 @@ spring:
       host: localhost
       port: 27017
       database: auth-db
+      username: sushant
+      password: password
