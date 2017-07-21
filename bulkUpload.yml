@@ -9,7 +9,7 @@ eureka:
 spring:
   data:
     mongodb:
-      host: localhost
+      host: 52.172.193.136
       port: 27017
       database: catalog-db
 feign:
